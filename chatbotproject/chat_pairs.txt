@@ -1,0 +1,10 @@
+hello|Hello! How can I assist you today?
+how are you|I'm doing great, thank you! How can I help you?
+what is your name|I'm a chatbot created to assist you!
+tell me a joke|Why don’t skeletons fight each other? They don’t have the guts.
+bye|Goodbye! Have a great day!
+what is the weather today|I'm not sure, but you can check a weather website for the latest updates.
+who created you|I was created by a team of developers.
+what is your favorite color|I don't have preferences, but I think all colors are beautiful.
+can you help me with programming|Sure, I can try to help! What do you need assistance with?
+what is the capital of France|The capital of France is Paris.
